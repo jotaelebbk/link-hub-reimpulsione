@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans+Arabic:wght@100&family=Montserrat:wght@100&display=swap');
+
+
+.body{
+    background-color: #000000;
+}
+
+
+
+.profilePic {
+    position: absolute;
+    left: calc(50% - 200px/2);
+    top: 40px;
+
+    
+}
+
+
+.titleName {
+
+    font-size: 40px;
+    font-family: 'Bebas Neue' ;
+    color: #FFFFFF;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 200px;
+    left: calc(50% - 350px/2);
+    position: absolute;
+    
+
+}
+
+
+.subtitle {
+
+    font-size: 20px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    color: #FFFFFF;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 320px;
+    left: calc(50% - 220px/2);
+    position: absolute;
+
+    
+}
+
+.bio {
+
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 400px;
+    left: calc(50% - 620px/2);
+    position: absolute;
+
+    
+}
+
+
+
+#instagram {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1100px;
+    left: calc(50% - -500px/2);
+    position: absolute;
+
+}
+
+
+#whatsapp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1100px;
+    left: calc(50% - 500px/2);
+    position: absolute;
+}
+
+/**.socialMedia {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 1200px;
+    left: calc(50% - 200px/2);
+    position: absolute;
+    
+}
+/
+
+
